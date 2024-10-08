@@ -1,0 +1,25 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "8F4TSLVDTF.com.newyorklife.mynyl.mobile"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {
+                        "/": "/*"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "8F4TSLVDTF.com.newyorklife.mynyl.mobile"
+        ]
+    }
+}
